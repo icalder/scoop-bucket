@@ -8,7 +8,7 @@
     "oc.exe"
   ],
   "checkver": {
-    "github": "https://github.com/openshift/origin/releases/latest",
+    "url": "https://github.com/openshift/origin/releases/latest",
     "re": "openshift-origin-client-tools-v(?<version>[\\d.]+)-(?<commit>[a-f0-9]+)-windows.zip"
   },
   "autoupdate": {
