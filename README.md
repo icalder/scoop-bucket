@@ -5,7 +5,10 @@ scoop bucket add icalder https://github.com/icalder/scoop-bucket
 scoop install icalder/oc
 ```
 
-## dev notes ##
+## Apps
+* OpenShift oc cli tool [OpenShift Origin](https://www.openshift.org/download.html)
+
+## Dev notes
 To check autoupdate, cd to $HOME\scoop\buckets\icalder, then run:
 
 ```
